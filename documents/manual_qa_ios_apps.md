@@ -31,18 +31,20 @@ Any particular views (UIViewControllers) that support different orientations?
 ## Network
 How does the app behave under these network circumstances:
 
-1. no network at all
-2. intermittent network
-3. cellular slow: 2G (Edge)
-4. cellular medium: 3G (UTMS, CDMA) 
-5. cellular fast: 4G(LTE)
+1. No network at all
+2. Intermittent network
+3. Cellular slow: 2G (Edge)
+4. Cellular medium: 3G (UTMS, CDMA) 
+5. Cellular fast: 4G(LTE)
 6. Wifi
 7. Public wifi with HTTP authentication (e.g. Starbucks)
+
+Testing with a proxy like Charles that allows for throttling helps simulating.
 
 Other network questions:
 
 1. Is your app tested on all carriers in your target market?
-2. Is offline access to (part of)data required?
+2. Is offline access to (part of) data required?
 3. Does the app make sense for wifi-only devices?
 4. Does the app resume sending/downloading data after a connection has been reestablished?
 
@@ -82,13 +84,13 @@ Use one of the following services to collect and analyse crash logs:
 
 ## Installation
 1. What is the size of the initial download, is it too big for cellular downloads?
-2. - size of the downloadable, too big for cellular?
 
 ## Updates
 1. What is the size of the updated app, is it too big for cellular downloads?
 2. Are there database updates? Have they been tested with multiple previous releases
 3. Is CoreData used for database migrations?
 4. Are there other persistent data/settings that should be tested with updates?
+5. Did you update the version number in a consistent way?
 
 ## Guidelines
 1. are the Apple App Review Guidelines followed?
