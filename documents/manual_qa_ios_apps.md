@@ -94,8 +94,8 @@ Use one of the following services to collect and analyse crash logs:
 5. Did you update the version number in a consistent way?
 
 ## Guidelines
-1. Are the Apple App Review Guidelines followed?
-2. Are the iOS HIG (Human Interface Guidelines) followed?
+1. Are the [Apple App Review Guidelines][https://developer.apple.com/appstore/guidelines.html] followed?
+2. Are the [iOS HIG (Human Interface Guidelines)][http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html] followed?
 3. Are all trademarks and copyrights covered?
 
 ## In-app purchases
