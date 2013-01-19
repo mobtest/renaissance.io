@@ -25,8 +25,8 @@ You might deem iOS 4.x obsolete
 
 ## Device Orientation and rotation
 
-Does the app support both landscape and portrait orientation?
-Any particular views (UIViewControllers) that support different orientations?
+1. Does the app support both landscape and portrait orientation?
+2. Any particular views (UIViewControllers) that support different orientations?
 
 ## Network
 How does the app behave under these network circumstances:
@@ -73,7 +73,8 @@ Trigger memory warnings in the Simulator.
 2. Does a busy surrounding make the app significantly harder to use?
 
 ## Accessability
-Are controls accessible? Are accessibility labels set?
+1. Are controls accessible? 
+2. Are accessibility labels set on all controls?
 
 ## Crash logs
 Use one of the following services to collect and analyse crash logs:
@@ -87,14 +88,36 @@ Use one of the following services to collect and analyse crash logs:
 
 ## Updates
 1. What is the size of the updated app, is it too big for cellular downloads?
-2. Are there database updates? Have they been tested with multiple previous releases
+2. Are there database updates? Have they been tested with multiple previous releases?
 3. Is CoreData used for database migrations?
 4. Are there other persistent data/settings that should be tested with updates?
 5. Did you update the version number in a consistent way?
 
 ## Guidelines
-1. are the Apple App Review Guidelines followed?
+1. Are the Apple App Review Guidelines followed?
 2. Are the iOS HIG (Human Interface Guidelines) followed?
 3. Are all trademarks and copyrights covered?
 
+## In-app purchases
+1. Can a user download past purchases?
+2. What happens if halfway through the processing process your backend servers are not available?
+3. Are kids a target market? Do you present in-app purchases in a child-friendly way?
+4. Are purchased items available on all of the user's devices?
+5. What happens if someone uses a different Apple account (ID) than the one with which the original app was downloaded?
+6. What happens if a user turned off in-app purchases for the whole device?
+7. Can the process be hacked?
+8. What happens if Apples sends you inconsistent info, is the data validated?
 
+## Push notifications
+
+1. Can a user turn off push notifications?
+2. What happens when a user uninstalls the app? 
+3. Is your link between all their different devices and a user consistent?
+4. Does push work both in development environment as production environment?
+5. Do the messages appear in the notification center?
+6. Is the correct sound played?
+
+## Consistent data
+1. Do various ways of displaying information do this consistently? As in unread icon, and then the list of unread messages?
+2. Is your app's badge updated consistently?
+3. What happens on a crash while information is processed, is there a repair process or a consistency check?
