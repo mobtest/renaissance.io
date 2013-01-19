@@ -1,8 +1,8 @@
 # Manual QA testing for iOS apps 
 
 ## Functional testing
-What functions is the app supposed to have?
-Does the app indeed support these functions?
+* What functions is the app supposed to have?
+* Does the app indeed support these functions?
 
 ## Hardware
 
@@ -108,14 +108,18 @@ Use one of the following services to collect and analyse crash logs:
 7. Can the process be hacked?
 8. What happens if Apples sends you inconsistent info, is the data validated?
 
-## Push notifications
 
+## Push notifications
 1. Can a user turn off push notifications?
 2. What happens when a user uninstalls the app? 
 3. Is your link between all their different devices and a user consistent?
 4. Does push work both in development environment as production environment?
 5. Do the messages appear in the notification center?
 6. Is the correct sound played?
+7. How consistent is the user experience if after a time of no connectivity only the last push notification arrives at the phone?
+8. How consistent is the user experience with delays on notifications (wifi only means a check every 15 minutes)
+9. How do you deal with push notifications when users are behind a firewall that blocks port 5223, on which the push notification process runs?
+
 
 ## Consistent data
 1. Do various ways of displaying information do this consistently? As in unread icon, and then the list of unread messages?
