@@ -99,11 +99,11 @@ Use one of the following services to collect and analyse crash logs:
 3. Are all trademarks and copyrights covered?
 
 ## In-app purchases
-1. Can a user download past purchases?
-2. What happens if halfway through the processing process your backend servers are not available?
-3. Are kids a target market? Do you present in-app purchases in a child-friendly way?
-4. Are purchased items available on all of the user's devices?
-5. What happens if someone uses a different Apple account (ID) than the one with which the original app was downloaded?
+1. Can a user download past purchases (e.g. after a reinstall)?
+2. Are purchased items available on all of the user's devices?
+3. What happens if halfway through the processing process your backend servers are not available?
+4. Are children a target market? Do you present in-app purchases in a child-friendly way?
+5. What happens if someone uses a different Apple account (Apple ID) than the one with which the original app was downloaded?
 6. What happens if a user turned off in-app purchases for the whole device?
 7. Can the process be hacked?
 8. What happens if Apples sends you inconsistent info, is the data validated?
