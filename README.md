@@ -12,9 +12,10 @@ In the directory documents are checklists and templates helping you to do your o
 * [blog.mobtest.com][http://blog.mobtest.com]
 * [Mailchimp blog, has some nice postings about mobile UX testing][http://blog.mailchimp.com/tag/mobile-research/]
 
-## Prototype Tools
-* [iOS app prototyping][http://www.appgyver.com/]
+## Prototype tools
+* [Appgyver iOS app prototyping][http://www.appgyver.com/]
 * [Generic mobile prototyping][http://www.fluidui.com/]
+* [Prototypes][http://prototypesapp.com/]
 * [POP][https://itunes.apple.com/us/app/pop-prototyping-on-paper/id555647796?mt=8]
 
 ## Heatmap tools
