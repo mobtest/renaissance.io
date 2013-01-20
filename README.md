@@ -6,7 +6,7 @@ humantestingiosapps.key is the main presentation.
 
 In the directory documents are checklists and templates helping you to do your own testing.
 
-# Tools and background info about iOS app testing and experimenting
+# Tools and info about iOS app testing and experimenting
 
 ## Blogs to read
 * [blog.mobtest.com][http://blog.mobtest.com]
