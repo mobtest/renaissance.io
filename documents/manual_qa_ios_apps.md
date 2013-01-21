@@ -1,11 +1,10 @@
 # Manual QA testing for iOS apps 
 
 ## Functional testing
-* What functions is the app supposed to have?
-* Does the app indeed support these functions?
+* What functions is the app supposed to have? Please list all, inclusing possible outcomes
+* Does the app indeed support these functions? Please check off all functional requirements listed
 
 ## Hardware
-
 Which of the following hardware models does the app support?
 
 1. iPhone 3g, iPhone 3gs, iPhone 4 (Retina), iPhone 4s, iPhone 5 (4-inch)
@@ -24,7 +23,6 @@ Which of the following hardware models does the app support?
 You might deem iOS 4.x obsolete
 
 ## Device Orientation and rotation
-
 1. Does the app support both landscape and portrait orientation?
 2. Any particular views (UIViewControllers) that support different orientations?
 
@@ -39,7 +37,7 @@ How does the app behave under these network circumstances:
 6. Wifi
 7. Public wifi with HTTP authentication (e.g. Starbucks)
 
-Testing with a proxy like Charles that allows for throttling helps simulating.
+Testing with a proxy like [Charles](http://www.charlesproxy.com/) that allows for throttling helps simulating.
 
 Other network questions:
 
@@ -64,13 +62,18 @@ How does the app behave under low memory circumstances:
 
 Trigger memory warnings in the Simulator.
 
+## Battery
+1. Does the app drain the battery extensive?
+2. Does the app use background processes like fine grained location services that require a lot of resources?
+
 ## Text input
 1. Can a very large text be entered?
 2. What happens on suspend and resume? Can I continue entering text where I left off?
 
 ## Context and environment
 1. How is it to use the app outdoors with lots of light?
-2. Does a busy surrounding make the app significantly harder to use?
+2. Does a busy/distracting surrounding make the app significantly harder to use?
+3. Will the app be used in a nonoptimal way, like walking/running, attached to arm with an armband?
 
 ## Accessability
 1. Are controls accessible? 
@@ -94,8 +97,8 @@ Use one of the following services to collect and analyse crash logs:
 5. Did you update the version number in a consistent way?
 
 ## Guidelines
-1. Are the [Apple App Review Guidelines][https://developer.apple.com/appstore/guidelines.html] followed?
-2. Are the [iOS HIG (Human Interface Guidelines)][http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html] followed?
+1. Are the [Apple App Review Guidelines](https://developer.apple.com/appstore/guidelines.html) followed?
+2. Are the [iOS HIG (Human Interface Guidelines)](http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html) followed?
 3. Are all trademarks and copyrights covered?
 
 ## In-app purchases
@@ -125,3 +128,9 @@ Use one of the following services to collect and analyse crash logs:
 1. Do various ways of displaying information do this consistently? As in unread icon, and then the list of unread messages?
 2. Is your app's badge updated consistently?
 3. What happens on a crash while information is processed, is there a repair process or a consistency check?
+
+## Interrupts
+1. How does the app deal with interrupts like incoming calls, push notifications?
+2. After returning to the app, is it in a consistent state?
+
+##
