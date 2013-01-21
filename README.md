@@ -9,7 +9,7 @@ In the directory documents are checklists and templates helping you to do your o
 # Tools and info about iOS app testing and experimenting
 
 ## Blogs to read
-* [blog.mobtest.com](http://blog.mobtest.com]
+* [blog.mobtest.com](http://blog.mobtest.com)
 * [Mailchimp blog, has some nice postings about mobile UX testing](http://blog.mailchimp.com/tag/mobile-research/)
 
 ## Prototype tools
@@ -43,5 +43,5 @@ In the directory documents are checklists and templates helping you to do your o
 * [Clutch.IO](https://clutch.io/)
 
 ## In-app feedback
-* [Apptentive)[http://www.apptentive.com)
-* [Appsfire App Booster SDK)[http://dashboard.appsfire.com)
+* [Apptentive](http://www.apptentive.com)
+* [Appsfire App Booster SDK](http://dashboard.appsfire.com)
