@@ -22,17 +22,20 @@ In the directory documents are checklists and templates helping you to do your o
 * [Heatmaps technology inside your iOS app][https://heatma.ps/]
 * [Heatmaps inside mobile web sites][http://heatdata.com/]
 
-
 ## Books
 * [Great book about mobile app testing by Jonathan Kohl][http://www.kohl.ca/2012/tap-into-mobile-application-testing-book-now-available-in-beta/]
 
 ## iOS app distribution
-* https://testflightapp.com/
-* http://hockeyapp.net/
+* [Testflight][https://testflightapp.com/]
+* [Hockey][http://hockeyapp.net/]
+
+## User testing and tester recruitment
+* [Utest][http://utest.com]
+* [Mobtest][http://mobtest.com]
 
 ## Statistics
-* http://www.google.com/analytics/features/mobile.html
-* http://www.flurry.com/
+* [Google Analytics][http://www.google.com/analytics/features/mobile.html]
+* [Flurry][http://www.flurry.com/]
 
 ## A/B testing
 * [Switchboard][https://github.com/KeepSafe/Switchboard]
