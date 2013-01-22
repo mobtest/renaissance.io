@@ -6,6 +6,11 @@ The goal of usability testing is to see how efficiently and succesfully someone 
 1. What are the main use cases? Describe them for yourself, and give the end state as a taks to users: buy a car, book a room etc.
 2. For quantive research, track each step that a user takes with software, use heatmap technology to see what buttons and areas are touched
 
+## Conventions
+1. Are there several apps that offer similar functionality? Think refresh of table data, browse through photo's or pages, etc.
+2. Is this functionality implemented in the most standard way?
+3. Are the [iOS HIG (Human Interface Guidelines)](http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html) followed?
+
 ## Context and environment
 1. In what context is the app used? Is this a peaceful environment (e.g. home, office) or busy (street, public transportation). With or without cell phone reception/wifi?
 2. Is the app tested and optimised for the most common tasks & environments?
@@ -18,7 +23,7 @@ The goal of usability testing is to see how efficiently and succesfully someone 
 1. How many call to actions are there on a screen? Can this be limited?
 2. Are the main buttons or texts clearly visible and outstanding?
 
-## Discoverability
+## Discoverability/learnability
 1. Is it easy for a user to figure out how the app works?
 2. Are there hidden functionalities unlocked by swiping, tilting, tap-and-hold-down?
 3. Would a walk through/tutorial be needed to explain the app? Preferably not but maybe unavoidable 
@@ -27,19 +32,16 @@ The goal of usability testing is to see how efficiently and succesfully someone 
 1. How much time does it cost the app to become interactive? Is this less than 10 seconds? 
 2. Is the number of steps, number of input fields to be filled out minimised?
 
-## Conventions
-1. Are there several apps that offer similar functionality? Think refresh of table data, browse through photo's or pages, etc.
-2. Is this functionality implemented in the most standard way?
-3. Are the [iOS HIG (Human Interface Guidelines)](http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html) followed?
+## Network
+1. In case of no network, does the app retry by itself when network has been restored?
 
 ## Error messages
 1. Are all error messages clear?
-2. Is there no technical jargon involved?
+2. Is there no technical jargon used that only engineers understand?
 3. In case of user errors, is the explanation what the user should do clear?
-4. In case of no network, does the app retry by itself when network has been restored?
 
 ## Buttons
-1. Are buttons big enough?
+1. Are buttons and clickable areas big enough?
 2. Do buttons have a highlight state?
 3. Are buttons disabled when the started process takes a long time (say more than .2 seconds)?
 

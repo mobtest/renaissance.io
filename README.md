@@ -23,7 +23,7 @@ In the directory documents are checklists and templates helping you to do your o
 * [Heatmaps inside mobile web sites](http://heatdata.com/)
 
 ## Books
-* [Great book about mobile app testing by Jonathan Kohl](http://www.kohl.ca/2012/tap-into-mobile-application-testing-book-now-available-in-beta/)
+* Great book about mobile app testing by Jonathan Kohl: [Tap Into Mobile Application Testing](http://www.kohl.ca/2012/tap-into-mobile-application-testing-book-now-available-in-beta/)
 
 ## iOS app distribution
 * [Testflight](https://testflightapp.com/)
@@ -40,7 +40,7 @@ In the directory documents are checklists and templates helping you to do your o
 ## A/B testing
 * [Switchboard](https://github.com/KeepSafe/Switchboard)
 * [Pathmapp](http://pathmapp.com )
-* [Clutch.IO](https://clutch.io/)
+* [Clutch.IO](http://clutchio.github.com/)
 
 ## In-app feedback
 * [Apptentive](http://www.apptentive.com)
