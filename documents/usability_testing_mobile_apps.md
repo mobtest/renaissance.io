@@ -1,10 +1,15 @@
 # Usability testing mobile apps
 
-The goal of usability testing is to see how efficiently and succesfully someone can use your app, while having an enjoyable experience
+The goal of usability testing is to see how efficiently and succesfully someone can use your app, in the applicable context while having an enjoyable experience.
 
-## Testing plan
+## Testing plan setup
 1. What are the main use cases? Describe them for yourself, and give the end state as a taks to users: buy a car, book a room etc.
-2. For quantive research, track each step that a user takes with software, use heatmap technology to see what buttons and areas are touched
+2. In what context will that use case take place?
+3. How are you going to record the testing?
+4. Are you going to do quantive research, if so track each step that a user takes with software, maybe use heatmap technology to see what buttons and areas are touched
+
+
+# Checklist
 
 ## Conventions
 1. Are there several apps that offer similar functionality? Think refresh of table data, browse through photo's or pages, etc.

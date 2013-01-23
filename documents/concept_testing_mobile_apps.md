@@ -4,8 +4,9 @@ The goal of a concept test is to verify that there is a certain target market wi
 
 ##Setup
 1. Get 10-50 respondents that fit in your target group
-2. Prepare materials that indicate or explain the working of your new app
-3. Decide whether you want to do the test remotely or in person. In person will give better results but is obviously more expensive
+2. Is an interview about current behavior also planned? 
+3. Prepare materials that indicate or explain the working of your new app. Prototypes work great for this
+4. Decide whether you want to do the test remotely or in person. In person will give better results but is obviously more expensive.
 
 ## Points of attention
 
