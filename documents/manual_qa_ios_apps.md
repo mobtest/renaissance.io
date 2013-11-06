@@ -7,8 +7,8 @@
 ## Hardware
 Which of the following hardware models does the app support?
 
-1. iPhone 3g, iPhone 3gs, iPhone 4 (Retina), iPhone 4s, iPhone 5 (4-inch)
-2. iPad, iPad 2, iPad 3 (alias new, Retina), iPad 4, iPad Mini (not Retina, smaller 7.9’’ screen)
+1. iPhone 3g, iPhone 3gs, iPhone 4 (Retina), iPhone 4s, iPhone 5 (4-inch), iPhone 5s, iPhone 5c
+2. iPad, iPad 2, iPad 3 (alias new, Retina), iPad 4, iPad Mini (not Retina, smaller 7.9’’ screen), iPad mini retina, iPad Air
 3. iPod Touch 4, iPod Touch 5 (4-inch Retina)
 
 You might consider iPhone 3G, 3GS and iPad obsolete.
