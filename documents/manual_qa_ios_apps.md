@@ -16,11 +16,11 @@ You might consider iPhone 3G, 3GS and iPad obsolete.
 ## Operating system
 Which of the following hardware models does the app support?
 
-1. iOS 4.x
-2. iOS 5.x
-3. iOS 6.x
+1. iOS 5.x
+2. iOS 6.x
+3. iOS 7.x
 
-You might deem iOS 4.x obsolete
+You might deem iOS 5.x obsolete, supporting the curent plus previous main release will in general give you 95%+ coverage.
 
 ## Device orientation and rotation
 1. Does the app support both landscape and portrait orientation?
